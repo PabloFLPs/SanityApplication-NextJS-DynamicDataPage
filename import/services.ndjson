@@ -1,0 +1,4 @@
+{"_type":"service","_id":"m-toronto","name":"Moles Removal - Toronto","service":"Moles Removal","city":"Toronto","slug":{"_type":"slug","current":"m-toronto"}}
+{"_type":"service","_id":"m-bramptom","name":"Moles Removal - Brampton","service":"Moles Removal","city":"Brampton","slug":{"_type":"slug","current":"m-brampton"}}
+{"_type":"service","_id":"m-whitchurch-stouffville","name":"Moles Removal - Whitchurch-Stouffville","service":"Moles Removal","city":"Whitchurch-Stouffville","slug":{"_type":"slug","current":"m-whitchurch-stouffville"}}
+{"_type":"service","_id":"m-new-tecumseth","name":"Moles Removal - New Tecumseth","service":"Moles Removal","city":"New Tecumseth","slug":{"_type":"slug","current":"m-new-tecumseth"}}
