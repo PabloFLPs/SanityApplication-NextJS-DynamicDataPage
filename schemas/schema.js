@@ -32,6 +32,31 @@ export default createSchema({
           type: "string",
         },
         {
+          title: "Image",
+          name: "image",
+          type: "image",
+          options: {
+            hotspot: true,
+          },
+        },
+        {
+          title: "Content", 
+          name: "content",
+          type: "array", 
+          of: [
+            {
+              type: "block"
+            }
+          ]
+        },
+        /*
+        {
+          title: "Content",
+          name: "content",
+          type: "string",
+        },
+        */
+        {
           title: "Slug",
           name: "slug",
           type: "slug",
